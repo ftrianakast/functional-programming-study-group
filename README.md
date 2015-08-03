@@ -26,28 +26,28 @@ Felipe Triana Castañeda
 
 ## Training Material:
 
-1.[Book: Functional Programming in Scala by Paul Chiusano and Rúnar Bjarnason[1]
-2.[Course: Functional Programming Principles in Scala by Martin Odersky][2]
-3.[Book: Learn you a Haskell for Great Good!][3]
-4.[Course: Principles of Reactive Programming][4]
+1. [Book: Functional Programming in Scala by Paul Chiusano and Rúnar Bjarnason][1]
+2. [Course: Functional Programming Principles in Scala by Martin Odersky][2]
+3. [Book: Learn you a Haskell for Great Good!][3]
+4. [Course: Principles of Reactive Programming][4]
 
 ## Training Environment:
 
-1. Training Room:
+- __Training Room__
 
 Einstein Room, Preferible
 
-2. Tools & Materials
+- __Tools & Materials__
 
 Intellij-Idea, Slack, ScreenHero, Git, Scala, Haskell
 
-3. Start Date:  August 20
+- __Start Date__:  August 20
 
-4. Number of Sessions: 40 - 60 sessions
+- __Number of Sessions__: 40 - 60 sessions
 
-5. Hours per Session: 1:30 h
+- __Hours per Session__: 1:30 h
 
-6. Total Time: 52h - 78h
+- __Total Time__: 52h - 78h
 
 ## Syllabus
 
