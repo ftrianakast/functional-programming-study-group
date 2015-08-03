@@ -58,6 +58,10 @@ Intellij-Idea, Slack, ScreenHero, Git, Scala, Haskell
 | 3  | Felipe Triana     | Senior Software Engineer    | felipe.triana@prodigious.com | ftrianakast@gmail.com | ftrianakast |
 | 4  | Fabián            | Senior Software Engineer    |                              |                       |             |
 | 5  | Giussepe Cárdenas | Senior Software Engineer    |                              |                       |             |
+| 6  | Andrés Lievano    | Senior Software Engineer    |                              |                       |             |
+| 7  | Diego Nieto       | Senior Software Engineer    |                              |                       |             |
+
+
 
 ## Syllabus
 
