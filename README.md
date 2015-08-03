@@ -1,7 +1,7 @@
 
 [1]: http://www.amazon.com/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653/ref=sr_1_2?ie=UTF8&qid=1438618363&sr=8-2&keywords=functional+programming
 
-[2]: ttps://www.coursera.org/course/progfun
+[2]: https://www.coursera.org/course/progfun
 
 [3]: http://learnyouahaskell.com/
 
