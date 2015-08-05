@@ -29,7 +29,7 @@ Felipe Triana Castañeda
 1. [Book: Functional Programming in Scala by Paul Chiusano and Rúnar Bjarnason][1]
 2. [Course: Functional Programming Principles in Scala by Martin Odersky][2]
 3. [Book: Learn you a Haskell for Great Good!][3]
-4. [Course: Principles of Reactive Programming][4]
+4. [Course: Principles of Reactive Programming][5]
 
 ## Training Environment:
 
