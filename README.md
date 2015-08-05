@@ -47,8 +47,6 @@ Intellij-Idea, Slack, ScreenHero, Git, Scala, Haskell
 
 - __Hours per Session__: 1:30 h
 
-- __Total Time__: 52h - 78h
-
 ## Participants
 
 | No | Name              | Position                    | Corporative Email            | Personal Email        | Twitter     |
@@ -56,7 +54,7 @@ Intellij-Idea, Slack, ScreenHero, Git, Scala, Haskell
 | 1  | Carlos Oviedo     | Technical Architect         |                              |                       |             |
 | 2  | Alejandro Triana  | Principal Software Engineer |                              |                       |             |
 | 3  | Felipe Triana     | Senior Software Engineer    | felipe.triana@prodigious.com | ftrianakast@gmail.com | ftrianakast |
-| 4  | Fabián            | Senior Software Engineer    |                              |                       |             |
+| 4  | Fabián López      | Senior Software Engineer    |                              |                       |             |
 | 5  | Giussepe Cárdenas | Senior Software Engineer    |                              |                       |             |
 | 6  | Andrés Lievano    | Senior Software Engineer    |                              |                       |             |
 | 7  | Diego Nieto       | Senior Software Engineer    |                              |                       |             |
