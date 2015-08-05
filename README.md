@@ -65,4 +65,17 @@ Intellij-Idea, Slack, ScreenHero, Git, Scala, Haskell
 
 ## Syllabus
 
-
+| No | Subject                                  | Objective                                                                                | Module                                 |
+|----|------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------|
+| 1  | Scala Syntax                             | Basic intro to Scala Syntax                                                              | Background knowledge                   |
+| 2  | Scala Syntax                             | Basic intro to Scala Syntax                                                              | Background knowledge                   |
+| 3  | What is functional programming?          | Describe what is a pure function: referential transparency, purity, substitution model.  | Introduction to functional programming |
+| 4  | Basic concepts of functional programming | Higher order functions, currying and polymorphic functions                               | Introduction to functional programming |
+| 5  | Basic concepts of functional programming | Higher order functions, currying and polymorphic functions. Exercises                    | Introduction to functional programming |
+| 6  | Types                                    | Functions as objects                                                                     | Types and pattern matching             |
+| 7  | Types                                    | Haskell syntax for types. Believe the type                                               | Types and pattern matching             |
+| 8  | Pattern matching                         | Pattern matching                                                                         | Types and pattern matching             |
+| 9  | Defining functional data structures      | Functional data structures and data sharing                                              | Functional data structures             |
+| 10 | Defining functional data structures      | List, pairs and tuples in a functional way                                               | Functional data structures             |
+| 11 | Defining functional data structures      | Recursion over list and generalizing to higher order functions                           | Functional data structures             |
+| 12 | Summary class                            |                                                                                          | Summary class                          |
