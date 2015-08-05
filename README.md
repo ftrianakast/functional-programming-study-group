@@ -43,7 +43,7 @@ Intellij-Idea, Slack, ScreenHero, Git, Scala, Haskell
 
 - __Start Date__:  August 20
 
-- __Number of Sessions__: 40 - 60 sessions
+- __Number of Sessions__: 12 sessions
 
 - __Hours per Session__: 1:30 h
 
