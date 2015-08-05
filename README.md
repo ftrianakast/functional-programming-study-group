@@ -58,7 +58,7 @@ Intellij-Idea, Slack, ScreenHero, Git, Scala, Haskell
 | 5  | Giussepe Cárdenas | Senior Software Engineer    |                              |                       |             |
 | 6  | Andrés Lievano    | Senior Software Engineer    |                              |                       |             |
 | 7  | Diego Nieto       | Senior Software Engineer    |                              |                       |             |
-
+| 8  | Javier Sándoval   | Principal Software Engineer |                              |                       |             |
 
 
 ## Syllabus
