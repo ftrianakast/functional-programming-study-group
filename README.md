@@ -59,23 +59,27 @@ Intellij-Idea, Slack, ScreenHero, Git, Scala, Haskell
 | 6  | Andrés Lievano    | Senior Software Engineer    |                              |                       |             |
 | 7  | Diego Nieto       | Senior Software Engineer    |                              |                       |             |
 | 8  | Javier Sándoval   | Principal Software Engineer |                              |                       |             |
-
+| 9  | Andrés Alzate     | Principal Software Engineer |                              |                       |             |
+| 10 | Julio Chaves      | Principal Software Engineer |                              |                       |             |
+| 11 | Victor Mejía      | Principal Software Engineer |                              |                       |             |
+| 12 | Alexander Herrera | Senior Software Engineer    |                              |                       |             |
+| 12 | Giovany Moreno    | Senior Software Engineer    |                              |                       |             |
 
 ## Syllabus
 
-| No | Subject                                  | Objective                                                                                | Module                                 |
-|----|------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------|
-| 1  | What is functional programming?          | Describe what is a pure function: referential transparency, purity, substitution model.  | Introduction to functional programming |
-| 2  | Basic concepts of functional programming | Higher order functions, currying, polymorphic functions and tail recursion                               | Introduction to functional programming |
-| 3  | Basic concepts of functional programming | Higher order functions, currying, polymorphic functions and tail recursion. Exercises                    | Introduction to functional programming |
-| 4  | Types                                    | Functions as objects                                                                     | Types and pattern matching             |
-| 5  | Pattern matching                         | Pattern matching                                                                         | Types and pattern matching             |
-| 6  | Defining functional data structures      | Functional data structures and data sharing                                              | Functional data structures             |
-| 7 | Defining functional data structures      | List, pairs and tuples in a functional way                                               | Functional data structures             |
-| 8 | Defining functional data structures      | Recursion over list and generalizing to higher order functions                           | Functional data structures             |
-| 9 | Defining functional data structures      | Recursion over list and generalizing to higher order functions                           | Functional data structures             |
-| 10 | Defining functional data structures      | Recursion over list and generalizing to higher order functions                           | Functional data structures             |
-| 11 | Side efects, Option and Either data type      | Handling errors without exceptions                         | Handling errors          |
-| 12 | Strictness and Laziness      | Strict and  non-strict functions                           | Lazy structures             |
-| 13 | Strictness and Laziness     | Lazy list                            | Lazy structures             |
-| 14 | Summary class                            |                                                                                          | Summary class                          |
+|| No | Subject                                  | Objective                                                                               | Module                                 | Assigned to      |
+|----|------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------|------------------|
+| 1  | What is functional programming?          | Describe what is a pure function: referential transparency, purity, substitution model. | Introduction to functional programming | Fabián López     |
+| 2  | Basic concepts of functional programming | Higher order functions, currying, polymorphic functions and tail recursion              | Introduction to functional programming | Javier Sandoval  |
+| 3  | Basic concepts of functional programming | Higher order functions, currying, polymorphic functions and tail recursion. Exercises   | Introduction to functional programming | Andrés Alzate    |
+| 4  | Types                                    | Functions as objects                                                                    | Types and pattern matching             | Carlos Oviedo    |
+| 5  | Pattern matching                         | Pattern matching                                                                        | Types and pattern matching             | Felipe Triana    |
+| 6  | Defining functional data structures      | Functional data structures and data sharing                                             | Functional data structures             | Andrés Alzate    |
+| 7  | Defining functional data structures      | List, pairs and tuples in a functional way                                              | Functional data structures             | Felipe Triana    |
+| 8  | Defining functional data structures      | Recursion over list and generalizing to higher order functions                          | Functional data structures             | Julio Chaves     |
+| 9  | Defining functional data structures      | Recursion over list and generalizing to higher order functions                          | Functional data structures             | Julio Chaves     |
+| 10 | Defining functional data structures      | Recursion over list and generalizing to higher order functions                          | Functional data structures             | Alejandro Triana |
+| 11 | Side efects, Option and Either data type | Handling errors without exceptions                                                      | Handling errors                        | Carlos Oviedo    |
+| 12 | Strictness and Laziness                  | Strict and  non-strict functions                                                        | Lazy structures                        | Alejandro Triana |
+| 13 | Strictness and Laziness                  | Lazy list                                                                               | Lazy structures                        | Victor Mejía     |
+| 14 | Summary class                            |                                                                                         |                                        | Victor Mejía     |
