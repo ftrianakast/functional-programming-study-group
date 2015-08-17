@@ -67,7 +67,7 @@ Intellij-Idea, Slack, ScreenHero, Git, Scala, Haskell
 
 ## Syllabus
 
-|| No | Subject                                  | Objective                                                                               | Module                                 | Assigned to      |
+| No | Subject                                  | Objective                                                                               | Module                                 | Assigned to      |
 |----|------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------|------------------|
 | 1  | What is functional programming?          | Describe what is a pure function: referential transparency, purity, substitution model. | Introduction to functional programming | Fabián López     |
 | 2  | Basic concepts of functional programming | Higher order functions, currying, polymorphic functions and tail recursion              | Introduction to functional programming | Javier Sandoval  |
