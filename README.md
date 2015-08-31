@@ -49,21 +49,24 @@ Intellij-Idea, Slack, ScreenHero, Git, Scala, Haskell
 
 ## Participants
 
-| No | Name              | Position                    | Corporative Email            | Personal Email        | Twitter     |
-|----|-------------------|-----------------------------|------------------------------|-----------------------|-------------|
-| 1  | Carlos Oviedo     | Technical Architect         |                              |                       |             |
-| 2  | Alejandro Triana  | Principal Software Engineer |                              |                       |             |
-| 3  | Felipe Triana     | Senior Software Engineer    | felipe.triana@prodigious.com | ftrianakast@gmail.com | ftrianakast |
-| 4  | Fabián López      | Senior Software Engineer    |                              |                       |             |
-| 5  | Giussepe Cárdenas | Senior Software Engineer    |                              |                       |             |
-| 6  | Andrés Lievano    | Senior Software Engineer    |                              |                       |             |
-| 7  | Diego Nieto       | Senior Software Engineer    |                              |                       |             |
-| 8  | Javier Sándoval   | Principal Software Engineer |                              |                       |             |
-| 9  | Andrés Alzate     | Principal Software Engineer |                              |                       |             |
-| 10 | Julio Chaves      | Principal Software Engineer |                              |                       |             |
-| 11 | Victor Mejía      | Principal Software Engineer |                              |                       |             |
-| 12 | Alexander Herrera | Senior Software Engineer    |                              |                       |             |
-| 12 | Giovany Moreno    | Senior Software Engineer    |                              |                       |             |
+| No | Name              | Position                    |
+|----|-------------------|-----------------------------|
+| 1  | Carlos Oviedo     | Technical Architect         |
+| 2  | Alejandro Triana  | Principal Software Engineer |
+| 3  | Felipe Triana     | Senior Software Engineer    |
+| 4  | Fabián López      | Senior Software Engineer    |
+| 5  | Giussepe Cárdenas | Senior Software Engineer    |
+| 6  | Andrés Lievano    | Senior Software Engineer    |
+| 7  | Diego Nieto       | Senior Software Engineer    |
+| 8  | Javier Sándoval   | Principal Software Engineer |
+| 9  | Andrés Alzate     | Principal Software Engineer |
+| 10 | Julio Chaves      | Principal Software Engineer |
+| 11 | Victor Mejía      | Principal Software Engineer |
+| 12 | Alexander Herrera | Senior Software Engineer    |
+| 12 | Giovany Moreno    | Senior Software Engineer    |
+| 13 | Daniel Moreno     | Senior Software Engineer    |
+| 14 | Nikolai Tellez    | Senior Software Engineer    |
+| 15 | John Cely         | Senior Software Engineer    |
 
 ## Syllabus
 
@@ -82,4 +85,4 @@ Intellij-Idea, Slack, ScreenHero, Git, Scala, Haskell
 | 11 | Side efects, Option and Either data type | Handling errors without exceptions                                                      | Handling errors                        | Carlos Oviedo    |
 | 12 | Strictness and Laziness                  | Strict and  non-strict functions                                                        | Lazy structures                        | Alejandro Triana |
 | 13 | Strictness and Laziness                  | Lazy list                                                                               | Lazy structures                        | Victor Mejía     |
-| 14 | Summary class                            |                                                                                         |                                        | Victor Mejía     |
+| 14 | Summary class                            | All                                                                                     | All                                    | Victor Mejía     |
